@@ -1,0 +1,15 @@
+D:\TobetoAsncExample\MaskeTakip\Business\bin\Debug\net8.0\Business.deps.json
+D:\TobetoAsncExample\MaskeTakip\Business\bin\Debug\net8.0\Business.dll
+D:\TobetoAsncExample\MaskeTakip\Business\bin\Debug\net8.0\Business.pdb
+D:\TobetoAsncExample\MaskeTakip\Business\bin\Debug\net8.0\Entities.dll
+D:\TobetoAsncExample\MaskeTakip\Business\bin\Debug\net8.0\Entities.pdb
+D:\TobetoAsncExample\MaskeTakip\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+D:\TobetoAsncExample\MaskeTakip\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\TobetoAsncExample\MaskeTakip\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+D:\TobetoAsncExample\MaskeTakip\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+D:\TobetoAsncExample\MaskeTakip\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+D:\TobetoAsncExample\MaskeTakip\Business\obj\Debug\net8.0\Business.csproj.CopyComplete
+D:\TobetoAsncExample\MaskeTakip\Business\obj\Debug\net8.0\Business.dll
+D:\TobetoAsncExample\MaskeTakip\Business\obj\Debug\net8.0\refint\Business.dll
+D:\TobetoAsncExample\MaskeTakip\Business\obj\Debug\net8.0\Business.pdb
+D:\TobetoAsncExample\MaskeTakip\Business\obj\Debug\net8.0\ref\Business.dll
